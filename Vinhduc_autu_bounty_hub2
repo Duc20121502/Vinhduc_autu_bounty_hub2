@@ -9,7 +9,7 @@ Setup = {
         }
     },
     ['Panic % Health'] = {40, 45},
-    ['Chatting'] = {},
+    ['Chatting'] = {Anyone pvp, i can handle the whole server},
     ['Lock Cam'] = false,
     ['Hop Region'] = 'Singapore',
     ['Random Y Tween'] = false,
