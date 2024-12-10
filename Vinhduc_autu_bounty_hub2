@@ -1,6 +1,6 @@
 Setup = {
     ['PC-er'] = false,
-    ['Team'] = 'Pirates','marines'
+    ['Team'] = 'Pirates','Marines'
     ['Auto Team'] = {
         ['Enabled'] = false,
         ['Lock'] = {
